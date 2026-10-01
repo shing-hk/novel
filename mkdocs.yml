@@ -1,0 +1,17 @@
+site_name: 補天
+site_description: 仙俠長篇連載小說
+theme:
+  name: material
+  language: zh-TW
+nav:
+  - 首頁: index.md
+  - 小說:
+      - 第一卷:
+          - 第1章: volume1/chapter01.md
+          - 第2章: volume1/chapter02.md
+  - 設定集:
+      - 人物設定: settings/characters.md
+      - 世界觀: settings/world.md
+      - 境界設定: settings/cultivation.md
+  - 更新紀錄: updates.md
+  - 關於作者: about.md
